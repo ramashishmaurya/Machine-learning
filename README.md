@@ -15,7 +15,7 @@ A hands-on machine learning repository covering supervised learning, data prepro
 #### 1. Teen Mental Health Analysis
 ```
 File    : Teenmental health.ipynb
-Kya hai : Real world dataset pe EDA + ML
+        : Real world dataset pe EDA + ML
           Mental health factors analyze kiye
 Skills  : Data cleaning, visualization, classification
 ```
@@ -23,7 +23,7 @@ Skills  : Data cleaning, visualization, classification
 #### 2. Salary Prediction
 ```
 File    : salaryprediction.ipynb
-Kya hai : Experience/skills se salary predict karna
+        : Experience/skills se salary predict karna
           Regression model banaya
 Skills  : Linear Regression, feature engineering
 Model   : model.pkl (saved trained model)
@@ -36,22 +36,22 @@ Model   : model.pkl (saved trained model)
 #### 3. Outlier Detection
 ```
 File    : outliers.ipynb
-Kya hai : Dataset mein outliers dhundho aur handle karo
+         : Dataset mein outliers dhundho aur handle karo
 Methods : IQR method, Z-score, visualization
 ```
 
 #### 4. Standardization
 ```
 File    : standardization.ipynb
-Kya hai : Features ko same scale pe laana
+       : Features ko same scale pe laana
 Methods : StandardScaler, MinMaxScaler
-Kyun    : ML models better perform karte hain
+       : ML models better perform karte hain
 ```
 
 #### 5. Data Transformation
 ```
 File    : transformation.ipynb
-Kya hai : Data ko model ke liye ready karna
+       : Data ko model ke liye ready karna
 Methods : Log transform, encoding, scaling
 ```
 
@@ -60,14 +60,14 @@ Methods : Log transform, encoding, scaling
 ### 📚 Supervised Learning
 ```
 Folder  : Supervised learning/
-Kya hai : Classification + Regression algorithms
+     : Classification + Regression algorithms
           Theory + implementation
 ```
 
 ### 🗄️ SQL
 ```
-Folder  : sql/
-Kya hai : Data analysis using SQL queries
+Folder  : sql 
+        : Data analysis using SQL queries
           Data manipulation and aggregation
 ```
 
